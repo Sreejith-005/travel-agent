@@ -1,4 +1,4 @@
-# AI Travel Auto-Booking Agent
+# AI Travel Agent
 
 Describe a trip in plain English; five agents (built with LangGraph, LangChain and Groq)
 plan it, and a Streamlit app shows the results and asks for confirmation before booking.
